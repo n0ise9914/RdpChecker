@@ -4,7 +4,7 @@
 #### This tool can detect successful user login (not just checking user/pass)
 Made for authorization checking on plenty number of RDP servers.<br/>
 Its not too fast to be used as RDP brute tool, but its very accurate and reliable on checking already cracked RDP's :)
-#### Notice: This tool has the opportunity the to become a RDP cracker by implementing multi threading.
+#### Notice: This tool has the opportunity to become a RDP cracker by implementing multi threading.
 #### Depends on AxInterop.MSTSCLib and Interop.MSTSCLib
 
 # Usage
