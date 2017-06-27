@@ -1,4 +1,4 @@
-![alt tag](https://raw.githubusercontent.com/n0ise9914/wait/master/screenshot/states.png)
+![alt tag](https://raw.githubusercontent.com/n0ise9914/rdpchecker/master/screenshot/image.png)
 # RdpChecker
 Made for authorization checking on plenty number of RDP servers.
 Its not too fast to be used as brute RDP tool, but its very accurate and reliable on checking cracked RDP's :)
