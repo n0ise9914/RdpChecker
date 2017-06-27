@@ -286,3 +286,11 @@ __pycache__/
 *.btm.cs
 *.odx.cs
 *.xsd.cs
+
+RdpChecker/L.cs
+RdpChecker/obj
+RdpChecker/bin/Release
+RdpChecker/bin/RdpChecker.exe
+RdpChecker/bin/RdpChecker.exe.config
+RdpChecker/bin/RdpChecker.pdb
+RdpChecker/bin/good.txt
