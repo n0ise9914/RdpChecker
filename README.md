@@ -15,7 +15,7 @@ Its not too fast to be used as RDP brute tool, but its very accurate and reliabl
 example: 4.2.2.4:3389@noise\administrator;root
 ```
 2. Open up the app and click load then start and wait...<br/>
-#### Notice: LoggedIn servers goes into a file named good.txt beside executable app file.
+#### Notice: LoggedIn RDP's goes into a file named good.txt beside executable app file.
 Notice: The input format is designed to load output of some other rdp crackers that i dont wanna name them here :), but you can easily impelement your own.!<br/>
 <br/><br/>
 #### Contribution's gladly accepted Xx
