@@ -8,7 +8,7 @@ Its not too fast to be used as RDP brute tool, but its very accurate and reliabl
 #### Depends on AxInterop.MSTSCLib and Interop.MSTSCLib
 
 # Usage
-1. Create a text file and your RDP's in following format per line.<br/>
+1. Create a text file contained RDP's inormation in following format per line.<br/>
 ```
 [Ip Address]:[port]@[Machine name]\[Username];[Password]
 
