@@ -1,13 +1,14 @@
 ![alt tag](https://raw.githubusercontent.com/n0ise9914/RdpChecker/master/RdpChecker/screenshot/image.png)
 # RdpChecker
-#### Supported windows servers: from Windows Server 2003 to Windows Server 2008/2012 and even Windows Server 2016<br/>
-#### This tool can detect successful user login (not just checking user/pass).<br/>
+#### Supported windows servers: from Windows Server 2003 to Windows Server 2008/2012 and even Windows Server 2016
+#### This tool can detect successful user login (not just checking user/pass)
 Made for authorization checking on plenty number of RDP servers.<br/>
 Its not too fast to be used as RDP brute tool, but its very accurate and reliable on checking already cracked RDP's :)<br/>
 #### Notice: This tool has the opportunity the to become a RDP cracker by implementing multi threading.<br/>
+#### Depends on AxInterop.MSTSCLib and Interop.MSTSCLib
 
 # Usage
-1. Create a text file and contained your RDP's in following format per line.<br/>
+1. Create a text file and your RDP's in following format per line.<br/>
 ```
 [Ip Address]:[port]@[Machine name]\[Username];[Password]
 
