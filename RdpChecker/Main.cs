@@ -56,7 +56,7 @@ namespace RdpCracker
         private string lastSaved;
         private void Rdp_OnResponse(RdpClient sender,ResponseType response)
         {
-            if (L.X(sender,response)) return;
+            //if (L.X(sender,response)) return;
             Message(sender, response);
             UpdateInfo();
             SaveHost(sender, response);
